@@ -1,1 +1,6 @@
 # stock_trading_bot_bridge
+
+윈도우os
+flask
+크레온
+anaconda
