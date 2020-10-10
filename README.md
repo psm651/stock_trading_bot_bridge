@@ -4,3 +4,6 @@
 flask
 크레온
 anaconda
+
+[2020-10-10]
+apache, flask
